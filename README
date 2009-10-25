@@ -1,0 +1,9 @@
+The rrepository contains mini-programs which where
+written while toying around with the ooc programming
+language (http://ooc-lang.org/)
+
+* branches.ooc
+  This is a port of the JS-Canvas Demo at 
+  http://tomtheisen.com/spread/
+  Depends on ooc-cairo 
+  (http://github.com/fredreichbier/ooc-cairo/)
